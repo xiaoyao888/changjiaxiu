@@ -239,11 +239,9 @@ body {
 	
 	height: 261px;
 	margin: 0 auto;
-	background: url(../images/gundong_bj.jpg) center top no-repeat;
 }
 
 #colee_left1 {
-	width: 1090px;
 	height: 241px;
 	overflow: hidden;
 	position: relative;
