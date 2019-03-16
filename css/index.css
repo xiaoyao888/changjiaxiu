@@ -12,7 +12,7 @@ body { background:#fff repeat-x;}
 
 .top{ width:100%; margin:0 auto; border-top:5px solid #01b786; }
 .top_c{ width:1200px; margin:0 auto;height:135px; padding-top:5px;}
-.top1{ float:left;  width:873px; height:133px; }
+.top1{ float:left;}
 .top1 img{ width:873px; height:118px;} 
 .top2{float:right;  height:133px;  width:240px; }
 .top2 img{ height:133px;  width:240px; }
